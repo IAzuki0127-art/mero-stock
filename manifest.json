@@ -1,0 +1,10 @@
+{
+  "name": "mignon stock",
+  "short_name": "mignon",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#f6f5f2",
+  "theme_color": "#f6f5f2",
+  "lang": "ja",
+  "description": "ハンドメイドショップの売上・在庫・注文管理"
+}
